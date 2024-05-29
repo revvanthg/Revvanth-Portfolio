@@ -1,0 +1,11 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.banner {
+    background-image: url(./resize\ picture2.jpg);
+    padding: 200px;
+    background-size: cover;
+}
+.card-4 {
+    display: inline-block
+}
